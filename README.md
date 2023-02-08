@@ -1,1 +1,1 @@
-"# Mes solutions complŠtes et personalis‚es pour le d‚fi "30 jours de JavaScript"" 
+"#Mes solutions complÃ¨tes et personalisÃ©es pour un dÃ©fi "30 jours de JavaScript"" 
